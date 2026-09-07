@@ -1,6 +1,0 @@
-Vad är ett Git-commit och varför är det viktigt? 
-Beskriv ett verkligt scenario där Git hjälper dig undvika problem. 
- 
-
-Svar:  Git-commit är något man gör efter man har redigerat något på ett projekt. Man lägger in en kommentar på det man har redigerat, det är viktigt så att alla på projektet ser vad du har ändrat. Git är viktigt för att även om man gör något fel så kan man se historiken och man kan hitta vem som gjorde felet. Git kommer hjälpa dig att reverta så att du kan gå tillbaka i steg och sedan undersöka vad som är problemet.  
- 

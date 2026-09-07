@@ -1,8 +1,0 @@
-Beskriv skillnaden mellan vattenfallsmodellen och agil metodik. 
-När bör man använda vilken, och varför? 
- 
-
-Vattenfallsmodellen - det är två olika arbetssätt. Vattenfallsmodellen, arbetet flyter framåt i en för bestämd riktning alltså för utvecklingen, designen, kravställningen och förstudien har redan gjorts. Det är fastställd budget och modellen är redan bestämd. Passar bäst när du samarbetar med ett företag som redan vet vad det vill ha.  
-
-
-Agil metodik – projektet delas upp i mindre delar som utvecklas i löpande cykler. Man bör använda den här metoden om man jobbar på ett projekt eller hemsida som är fortfarande i utveckling. Man kan göra ändringar. Agil passar bäst till större och komplexa utvecklingsprojekt  
