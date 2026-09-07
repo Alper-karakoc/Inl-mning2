@@ -1,4 +1,0 @@
-Vad innebär samarbete med GitHub? Vad är pull requests, branches och merge? 
- 
-
-Svar: Samarbete med Github betyder att flera personer kan göra ett projekt tillsammans. Med hjälp av branches kan alla skriva själva utan att effektera (main) filen. Alla skriver i sin egen branch efter du har skrivit klart så skriver du en kommit på vad du har ändrat och gjort. Sedan skickar du en pull request för att merga allt till main branchen. En pull request är en förfrågan till att lämna in din ändring från din branch till Main branchen  
